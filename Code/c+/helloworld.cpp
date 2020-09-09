@@ -1,4 +1,3 @@
-//to use this code, copy and paste it on your editor. Make sure you remove /**/
 /* 
 
 #include <iostream>
